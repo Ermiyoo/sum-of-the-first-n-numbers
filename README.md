@@ -1,0 +1,1 @@
+# sum-of-the-first-n-numbers
